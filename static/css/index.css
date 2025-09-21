@@ -67,6 +67,10 @@ body {
     font-weight: bolder;
 }
 
+.publication-highlight {
+  color: #ff3860;
+}
+
 .publication-authors {
 }
 
